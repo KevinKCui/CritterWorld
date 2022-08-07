@@ -11,9 +11,11 @@ The goal of this project was to simulate a world of critters with the capability
 * Graphic user interface to visually represent the model
 
 We split up the major components into different packages, and team members worked individually on them in order to modularize our program and ensure loose coupling. Additionally, we created a rigorous test suite of parameterized, random, blackbox, and glassbox testing to check the validity of all modules. In total, this project took around 12,000 lines of code in Java and was completed over the span of a month and a half.
+
+For more detailed information about the project specifications, see [this document](https://www.cs.cornell.edu/courses/cs2112/2021fa/project/project.pdf?1636714550).
 </br>
 </br>
-*Note: in accordance with Cornell University's Academic Integrity Policy, we cannot show any of our code. Still, we would like to provide a demonstration of our graphic user interface and highlight some features that we are especially proud of.*
+*Note: in accordance with Cornell University's Academic Integrity Policy, we cannot show any of our code (**upon request, source code can be shared with individual recruiters, however**). Still, we would like to provide a demonstration of our graphic user interface and highlight some features that we are especially proud of.*
 ____
 ### Graphic User Interface
 Our GUI was implemented in JavaFX and was designed with user experience as the utmost priority behind functionality.
